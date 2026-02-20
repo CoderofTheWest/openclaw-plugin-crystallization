@@ -147,11 +147,13 @@ Crystallization can be disabled after your agent's training period. Once the tra
 This plugin is one piece of a six-plugin architecture for agent self-awareness:
 
 1. [openclaw-plugin-stability](https://github.com/CoderofTheWest/openclaw-plugin-stability) -- Entropy monitoring, drift detection, growth vectors
-2. [openclaw-plugin-nightshift](https://github.com/CoderofTheWest/openclaw-plugin-nightshift) -- Autonomous scheduled tasks (SEAL metabolism)
-3. [openclaw-plugin-continuity](https://github.com/CoderofTheWest/openclaw-plugin-continuity) -- Cross-session memory and context threading
-4. [openclaw-plugin-reflection](https://github.com/CoderofTheWest/openclaw-plugin-reflection) -- Structured self-reflection and tension resolution
-5. [openclaw-plugin-governance](https://github.com/CoderofTheWest/openclaw-plugin-governance) -- Rate limiting, quiet hours, investigation budgets
+2. [openclaw-plugin-continuity](https://github.com/CoderofTheWest/openclaw-plugin-continuity) -- Cross-session memory, semantic search, context budgeting
+3. [openclaw-plugin-metabolism](https://github.com/CoderofTheWest/openclaw-plugin-metabolism) -- Autonomous learning from high-entropy conversations
+4. [openclaw-plugin-nightshift](https://github.com/CoderofTheWest/openclaw-plugin-nightshift) -- Off-hours task scheduling for heavy LLM work
+5. [openclaw-plugin-contemplation](https://github.com/CoderofTheWest/openclaw-plugin-contemplation) -- Self-directed inquiry over time
 6. [openclaw-plugin-crystallization](https://github.com/CoderofTheWest/openclaw-plugin-crystallization) -- Trait formation from growth vectors *(this plugin)*
+
+See [openclaw-metacognitive-suite](https://github.com/CoderofTheWest/openclaw-metacognitive-suite) for the full picture.
 
 ## License
 
