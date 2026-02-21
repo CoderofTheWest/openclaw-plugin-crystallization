@@ -327,7 +327,7 @@ function createPlugin(api, userConfig = {}) {
 }
 
 module.exports = {
-  id: 'openclaw-plugin-crystallization',
+  id: 'crystallization',
   name: 'Crystallization — Trait Formation',
 
   configSchema: {
